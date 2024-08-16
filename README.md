@@ -1,2 +1,2 @@
 # catvasion
-Small 3D game in progress.... 
+Small 3D game university project for studying purposes.
